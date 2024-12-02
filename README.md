@@ -6,7 +6,7 @@
 
 ### Hi there! 👋 
 
-🎯 Frontend Developer specialized in TypeScript/Angular & Dart/Flutter | Computer Science Student @UAM-I
+🎯 Frontend Developer specialized in TypeScript/Angular & Dart/Flutter | Computer Science Student UAM-I
 
 #### ⚡ Fun Fact
 Born on September 13, 1999 - a truly unique date that connects me to programming:
@@ -85,7 +85,7 @@ Other Projects:
 
 #### 🌎 Languages
 - 🇲🇽 Spanish (Native)
-- 🇺🇸 English (B2 - Upper Intermediate)
+- 🇺🇸 English (B2 - Intermediate)
 - 🇯🇵 Japanese (Beginner)
 
 #### 📫 Contact
@@ -99,7 +99,7 @@ Other Projects:
 
 ### ¡Hola! 👋
 
-🎯 Desarrollador Frontend especializado en TypeScript/Angular & Dart/Flutter | Estudiante de Computación @UAM-I
+🎯 Desarrollador Frontend especializado en TypeScript/Angular & Dart/Flutter | Estudiante de Computación UAM-I
 
 #### ⚡ Dato Curioso
 Nací el 13 de septiembre de 1999 - una fecha verdaderamente única que me conecta con la programación:
@@ -178,7 +178,7 @@ Otros Proyectos:
 
 #### 🌎 Idiomas
 - 🇲🇽 Español (Nativo)
-- 🇺🇸 Inglés (B2 - Intermedio Alto)
+- 🇺🇸 Inglés (B2 - Intermedio)
 - 🇯🇵 Japonés (Principiante)
 
 #### 📫 Contacto
