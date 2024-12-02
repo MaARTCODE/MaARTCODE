@@ -1,18 +1,192 @@
-# 💫 About Me:
-# Mario Alberto Rojas Trejo 👨‍💻<br><br>[English](#english) | [Español](#español)<br><br>## English<br><br>### Hi there 👋<br><br>I'm a Frontend Developer specializing in TypeScript, Dart, and Angular, with a passion for creating beautiful and efficient user interfaces.<br><br>#### ⚡ Fun Fact<br>Born on September 13, 1999 - a truly unique date that connects me to programming in an unexpected way:<br>- 🎮 It's the release date of Super Mario Bros. in Japan<br>- 👨‍💻 It's also the Day of the Programmer (256th day of the year)<br>- And yes, my name is Mario - all pure coincidence! <br><br>#### About Me<br>- 🎓 Computer Science student at UAM Iztapalapa (graduating soon!)<br>- 💼 Frontend Developer & Scrum Master at UAM Research Project INFOCSH<br>- 🌱 Currently learning Japanese 日本語を勉強中<br>- 🎯 Age: 25<br>- 🎮 Passionate about gaming, manga, and anime<br>  - Favorite series: Bleach<br>  - Favorite character: Gogeta<br>- 🎧 Audiophile enthusiast<br>  - Love high-res audio (WAV, FLAC)<br>  - Always seeking the perfect sound<br><br>#### Technical Expertise<br>```<br>Frontend Specialist:<br>├── TypeScript & Angular Expert<br>├── Dart & Flutter Developer<br>└── Visual Basic Applications<br><br>Additional Skills:<br>├── Languages:    JavaScript, Java, C, R, LaTeX<br>├── Frontend:     HTML, CSS, Material Design<br>├── Backend:      Laravel, Python, PHP<br>├── Cloud:        Firebase<br>├── Database:     SQL, SQLite<br>├── Testing:      Jasmine, Karma<br>└── Tools:        Git, SSH, FileZilla<br>```<br><br>#### Featured Project<br>🏢 [INFOCSH Module](https://infocsh.izt.uam.mx/informatica-modulo/consulta)<br>- Led frontend development as Scrum Master<br>- Built with Angular, Laravel<br>- Features real-time room reservation system<br>- Implemented responsive Material Design UI<br><br>#### Other Projects<br>- 👁️ Optical Store Management System (Flutter)<br>- 🚗 Parking System Automation<br>- 📊 Data Analysis and ML Projects<br><br>#### Languages<br>- 🇲🇽 Spanish (Native)<br>- 🇺🇸 English (B2 - Upper Intermediate)<br>- 🇯🇵 Japanese (Beginner)<br><br>#### Contact<br>- 📧 Email: mart.coding@gmail.com<br>- 📱 Phone: +52 55 6250 6026<br>- 📍 Mexico City, CP 11300<br><br>---<br><br>## Español<br><br>### ¡Hola! 👋<br><br>Soy Desarrollador Frontend especializado en TypeScript, Dart y Angular, apasionado por crear interfaces de usuario hermosas y eficientes.<br><br>#### ⚡ Dato Curioso<br>Nací el 13 de septiembre de 1999 - una fecha verdaderamente única que me conecta con la programación de manera inesperada:<br>- 🎮 Es la fecha de lanzamiento de Super Mario Bros. en Japón<br>- 👨‍💻 También es el Día del Programador (día 256 del año)<br>- Y sí, me llamo Mario - ¡todo pura casualidad!<br><br>#### Sobre Mí<br>- 🎓 Estudiante de Computación en UAM Iztapalapa (¡próximo a graduarme!)<br>- 💼 Desarrollador Frontend y Scrum Master en Proyecto INFOCSH UAM<br>- 🌱 Actualmente aprendiendo japonés 日本語を勉強中<br>- 🎯 Edad: 25 años<br>- 🎮 Apasionado de los videojuegos, manga y anime<br>  - Serie favorita: Bleach<br>  - Personaje favorito: Gogeta<br>- 🎧 Entusiasta del audio de alta calidad<br>  - Amante del audio de alta resolución (WAV, FLAC)<br>  - Siempre en busca del sonido perfecto<br><br>#### Experiencia Técnica<br>```<br>Especialista Frontend:<br>├── Experto en TypeScript & Angular<br>├── Desarrollador Dart & Flutter<br>└── Visual Basic Applications<br><br>Habilidades Adicionales:<br>├── Lenguajes:    JavaScript, Java, C, R, LaTeX<br>├── Frontend:     HTML, CSS, Material Design<br>├── Backend:      Laravel, Python, PHP<br>├── Cloud:        Firebase<br>├── Base de Datos: SQL, SQLite<br>├── Testing:      Jasmine, Karma<br>└── Herramientas: Git, SSH, FileZilla<br>```<br><br>#### Proyecto Destacado<br>🏢 [Módulo INFOCSH](https://infocsh.izt.uam.mx/informatica-modulo/consulta)<br>- Lideré el desarrollo frontend como Scrum Master<br>- Construido con Angular, Laravel<br>- Sistema de reserva de salas en tiempo real<br>- Implementación de UI responsiva con Material Design<br><br>#### Otros Proyectos<br>- 👁️ Sistema de Gestión para Óptica (Flutter)<br>- 🚗 Automatización de Sistema de Estacionamiento<br>- 📊 Proyectos de Análisis de Datos y Machine Learning<br><br>#### Idiomas<br>- 🇲🇽 Español (Nativo)<br>- 🇺🇸 Inglés (B2 - Intermedio Alto)<br>- 🇯🇵 Japonés (Principiante)<br><br>#### Contacto<br>- 📧 Email: mart.coding@gmail.com<br>- 📱 Teléfono: +52 55 6250 6026<br>- 📍 Ciudad de México, CP 11300<br><br>---<br><br><!---<br>MaARTCODE/MaARTCODE is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.<br>--><br>
+# Mario Alberto Rojas Trejo (MaARTCODE) 👨‍💻
 
+[English](#english) | [Español](#español)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaARTCODE&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaARTCODE&theme=dark&hide_border=false)<br/>
+## English
+
+### Hi there! 👋 
+
+🎯 Frontend Developer specialized in TypeScript/Angular & Dart/Flutter | Computer Science Student @UAM-I
+
+#### ⚡ Fun Fact
+Born on September 13, 1999 - a truly unique date that connects me to programming:
+- 🎮 The release date of Super Mario Bros. in Japan
+- 👨‍💻 The Day of the Programmer (256th day of the year)
+- And yes, my name is Mario - all pure coincidence!
+
+#### About Me
+- 🎓 Computer Science student at UAM Iztapalapa (graduating soon!)
+- 💼 Frontend Developer & Scrum Master at UAM Research Project INFOCSH
+- 🌱 Currently learning Japanese 日本語を勉強中
+- 🎮 Gaming & Anime enthusiast (Bleach fan, Gogeta stan)
+- 🎧 Audiophile always seeking the perfect sound (WAV, FLAC)
+
+#### 💻 Tech Stack
+
+Frontend Specialist:
+```
+├── TypeScript & Angular Expert
+├── Dart & Flutter Developer
+└── Visual Basic Applications
+```
+
+Programming Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+Frameworks & Technologies:
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+Data Science & ML:
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+Tools & Platforms:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 🚀 Featured Projects
+
+🏢 [INFOCSH Module](https://infocsh.izt.uam.mx/informatica-modulo/consulta)
+- Led frontend development as Scrum Master
+- Built with Angular, Laravel
+- Real-time room reservation system
+- Material Design UI implementation
+
+Other Projects:
+- 👁️ Optical Store Management System (Flutter)
+- 🚗 Parking System Automation
+- 📊 Data Analysis and ML Projects
+
+#### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=MaARTCODE&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MaARTCODE&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaARTCODE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+#### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaARTCODE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+#### 🌎 Languages
+- 🇲🇽 Spanish (Native)
+- 🇺🇸 English (B2 - Upper Intermediate)
+- 🇯🇵 Japanese (Beginner)
+
+#### 📫 Contact
+- 📧 mart.coding@gmail.com
+- 📱 +52 55 6250 6026
+- 📍 Mexico City, CP 11300
+
+---
+
+## Español
+
+### ¡Hola! 👋
+
+🎯 Desarrollador Frontend especializado en TypeScript/Angular & Dart/Flutter | Estudiante de Computación @UAM-I
+
+#### ⚡ Dato Curioso
+Nací el 13 de septiembre de 1999 - una fecha verdaderamente única que me conecta con la programación:
+- 🎮 Es la fecha de lanzamiento de Super Mario Bros. en Japón
+- 👨‍💻 También es el Día del Programador (día 256 del año)
+- Y sí, me llamo Mario - ¡todo pura casualidad!
+
+#### Sobre Mí
+- 🎓 Estudiante de Computación en UAM Iztapalapa (¡próximo a graduarme!)
+- 💼 Desarrollador Frontend y Scrum Master en Proyecto INFOCSH UAM
+- 🌱 Actualmente aprendiendo japonés 日本語を勉強中
+- 🎮 Entusiasta de videojuegos y anime (Fan de Bleach, stan de Gogeta)
+- 🎧 Audiófico en busca del sonido perfecto (WAV, FLAC)
+
+#### 💻 Stack Tecnológico
+
+Especialista Frontend:
+```
+├── Experto en TypeScript & Angular
+├── Desarrollador Dart & Flutter
+└── Visual Basic Applications
+```
+
+Lenguajes de Programación:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+Frameworks y Tecnologías:
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+Ciencia de Datos & ML:
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+Herramientas y Plataformas:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 🚀 Proyectos Destacados
+
+🏢 [Módulo INFOCSH](https://infocsh.izt.uam.mx/informatica-modulo/consulta)
+- Lideré el desarrollo frontend como Scrum Master
+- Construido con Angular, Laravel
+- Sistema de reserva de salas en tiempo real
+- Implementación de UI con Material Design
+
+Otros Proyectos:
+- 👁️ Sistema de Gestión para Óptica (Flutter)
+- 🚗 Automatización de Sistema de Estacionamiento
+- 📊 Proyectos de Análisis de Datos y Machine Learning
+
+#### 📊 Estadísticas de GitHub
+
+![](https://github-readme-stats.vercel.app/api?username=MaARTCODE&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MaARTCODE&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaARTCODE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+#### 🏆 Trofeos de GitHub
+![](https://github-profile-trophy.vercel.app/?username=MaARTCODE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+#### 🌎 Idiomas
+- 🇲🇽 Español (Nativo)
+- 🇺🇸 Inglés (B2 - Intermedio Alto)
+- 🇯🇵 Japonés (Principiante)
+
+#### 📫 Contacto
+- 📧 mart.coding@gmail.com
+- 📱 +52 55 6250 6026
+- 📍 Ciudad de México, CP 11300
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MaARTCODE&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
