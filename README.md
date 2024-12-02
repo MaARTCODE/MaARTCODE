@@ -18,8 +18,8 @@ Born on September 13, 1999 - a truly unique date that connects me to programming
 - 🎓 Computer Science student at UAM Iztapalapa (graduating soon!)
 - 💼 Frontend Developer & Scrum Master at UAM Research Project INFOCSH
 - 🌱 Currently learning Japanese 日本語を勉強中
-- 🎮 Gaming & Anime enthusiast (Bleach fan, Gogeta stan)
-- 🎧 Audiophile always seeking the perfect sound (WAV, FLAC)
+- 🎮 Gaming & Anime enthusiast (Bleach fan and Gogeta enthusiast)
+- 🎧 Audiophile passionate about high-resolution audio (WAV, FLAC)
 
 #### 💻 Tech Stack
 
@@ -111,8 +111,8 @@ Nací el 13 de septiembre de 1999 - una fecha verdaderamente única que me conec
 - 🎓 Estudiante de Computación en UAM Iztapalapa (¡próximo a graduarme!)
 - 💼 Desarrollador Frontend y Scrum Master en Proyecto INFOCSH UAM
 - 🌱 Actualmente aprendiendo japonés 日本語を勉強中
-- 🎮 Entusiasta de videojuegos y anime (Fan de Bleach, stan de Gogeta)
-- 🎧 Audiófico en busca del sonido perfecto (WAV, FLAC)
+- 🎮 Entusiasta de videojuegos y anime (Fan de Bleach y admirador de Gogeta)
+- 🎧 Audiófilo apasionado por el audio de alta resolución (WAV, FLAC)
 
 #### 💻 Stack Tecnológico
 
@@ -165,7 +165,7 @@ Herramientas y Plataformas:
 
 Otros Proyectos:
 - 👁️ Sistema de Gestión para Óptica (Flutter)
-- 🚗 Automatización de Sistema de Estacionamiento
+- 🚗 Sistema de Automatización de Estacionamiento
 - 📊 Proyectos de Análisis de Datos y Machine Learning
 
 #### 📊 Estadísticas de GitHub
