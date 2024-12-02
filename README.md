@@ -6,34 +6,59 @@
 
 ### Hi there 👋
 
-I'm a Computer Science student and Full Stack Developer specializing in frontend development with a strong foundation in backend technologies.
+I'm a Frontend Developer specializing in TypeScript, Dart, and Angular, with a passion for creating beautiful and efficient user interfaces.
+
+#### ⚡ Fun Fact
+Born on September 13, 1999 - a truly unique date that connects me to programming in an unexpected way:
+- 🎮 It's the release date of Super Mario Bros. in Japan
+- 👨‍💻 It's also the Day of the Programmer (256th day of the year)
+- And yes, my name is Mario - all pure coincidence! 
 
 #### About Me
 - 🎓 Computer Science student at UAM Iztapalapa (graduating soon!)
-- 💡 Currently working as Frontend Developer & Scrum Master at UAM Research Project INFOCSH
-- 🌱 Always learning and exploring new technologies
-- 💪 Passionate about creating efficient, user-friendly solutions
+- 💼 Frontend Developer & Scrum Master at UAM Research Project INFOCSH
+- 🌱 Currently learning Japanese 日本語を勉強中
+- 🎯 Age: 25
+- 🎮 Passionate about gaming, manga, and anime
+  - Favorite series: Bleach
+  - Favorite character: Gogeta
+- 🎧 Audiophile enthusiast
+  - Love high-res audio (WAV, FLAC)
+  - Always seeking the perfect sound
 
-#### Technical Skills
+#### Technical Expertise
 ```
-Languages:        Dart, C, JavaScript, Java, TypeScript, R, VB, LaTeX
-Frameworks:       Flutter, Angular
-Frontend:         TypeScript, Angular, HTML, CSS, Material Design
-Backend:          Java, Python, PHP
-Database:         SQL, SQLite
-Testing:          Jasmine, Karma
-Other Tools:      Git, SSH, FileZilla
+Frontend Specialist:
+├── TypeScript & Angular Expert
+├── Dart & Flutter Developer
+└── Visual Basic Applications
+
+Additional Skills:
+├── Languages:    JavaScript, Java, C, R, LaTeX
+├── Frontend:     HTML, CSS, Material Design
+├── Backend:      Laravel, Python, PHP
+├── Cloud:        Firebase
+├── Database:     SQL, SQLite
+├── Testing:      Jasmine, Karma
+└── Tools:        Git, SSH, FileZilla
 ```
 
-#### Recent Projects
-- 🏢 [INFOCSH Module](https://infocsh.izt.uam.mx/informatica-modulo/consulta) - Room reservation system with real-time validation
-- 👁️ Optical Store Management System - Inventory and clinical records (Flutter)
-- 🚗 Parking System - Automated vehicle registration and payment
-- 📊 Data Analysis and ML Projects using Python
+#### Featured Project
+🏢 [INFOCSH Module](https://infocsh.izt.uam.mx/informatica-modulo/consulta)
+- Led frontend development as Scrum Master
+- Built with Angular, Laravel
+- Features real-time room reservation system
+- Implemented responsive Material Design UI
+
+#### Other Projects
+- 👁️ Optical Store Management System (Flutter)
+- 🚗 Parking System Automation
+- 📊 Data Analysis and ML Projects
 
 #### Languages
 - 🇲🇽 Spanish (Native)
 - 🇺🇸 English (B2 - Upper Intermediate)
+- 🇯🇵 Japanese (Beginner)
 
 #### Contact
 - 📧 Email: mart.coding@gmail.com
@@ -46,34 +71,59 @@ Other Tools:      Git, SSH, FileZilla
 
 ### ¡Hola! 👋
 
-Soy estudiante de Computación y Desarrollador Full Stack especializado en desarrollo frontend con una sólida base en tecnologías backend.
+Soy Desarrollador Frontend especializado en TypeScript, Dart y Angular, apasionado por crear interfaces de usuario hermosas y eficientes.
+
+#### ⚡ Dato Curioso
+Nací el 13 de septiembre de 1999 - una fecha verdaderamente única que me conecta con la programación de manera inesperada:
+- 🎮 Es la fecha de lanzamiento de Super Mario Bros. en Japón
+- 👨‍💻 También es el Día del Programador (día 256 del año)
+- Y sí, me llamo Mario - ¡todo pura casualidad!
 
 #### Sobre Mí
 - 🎓 Estudiante de Computación en UAM Iztapalapa (¡próximo a graduarme!)
-- 💡 Actualmente trabajo como Desarrollador Frontend y Scrum Master en el Proyecto de Investigación INFOCSH UAM
-- 🌱 Siempre aprendiendo y explorando nuevas tecnologías
-- 💪 Apasionado por crear soluciones eficientes y amigables para el usuario
+- 💼 Desarrollador Frontend y Scrum Master en Proyecto INFOCSH UAM
+- 🌱 Actualmente aprendiendo japonés 日本語を勉強中
+- 🎯 Edad: 25 años
+- 🎮 Apasionado de los videojuegos, manga y anime
+  - Serie favorita: Bleach
+  - Personaje favorito: Gogeta
+- 🎧 Entusiasta del audio de alta calidad
+  - Amante del audio de alta resolución (WAV, FLAC)
+  - Siempre en busca del sonido perfecto
 
-#### Habilidades Técnicas
+#### Experiencia Técnica
 ```
-Lenguajes:        Dart, C, JavaScript, Java, TypeScript, R, VB, LaTeX
-Frameworks:       Flutter, Angular
-Frontend:         TypeScript, Angular, HTML, CSS, Material Design
-Backend:          Java, Python, PHP
-Base de Datos:    SQL, SQLite
-Testing:          Jasmine, Karma
-Otras Herram.:    Git, SSH, FileZilla
+Especialista Frontend:
+├── Experto en TypeScript & Angular
+├── Desarrollador Dart & Flutter
+└── Visual Basic Applications
+
+Habilidades Adicionales:
+├── Lenguajes:    JavaScript, Java, C, R, LaTeX
+├── Frontend:     HTML, CSS, Material Design
+├── Backend:      Laravel, Python, PHP
+├── Cloud:        Firebase
+├── Base de Datos: SQL, SQLite
+├── Testing:      Jasmine, Karma
+└── Herramientas: Git, SSH, FileZilla
 ```
 
-#### Proyectos Recientes
-- 🏢 [Módulo INFOCSH](https://infocsh.izt.uam.mx/informatica-modulo/consulta) - Sistema de reserva de salas con validación en tiempo real
-- 👁️ Sistema de Gestión para Óptica - Inventario y registros clínicos (Flutter)
-- 🚗 Sistema de Estacionamiento - Registro y pago automatizado de vehículos
-- 📊 Proyectos de Análisis de Datos y Machine Learning usando Python
+#### Proyecto Destacado
+🏢 [Módulo INFOCSH](https://infocsh.izt.uam.mx/informatica-modulo/consulta)
+- Lideré el desarrollo frontend como Scrum Master
+- Construido con Angular, Laravel
+- Sistema de reserva de salas en tiempo real
+- Implementación de UI responsiva con Material Design
+
+#### Otros Proyectos
+- 👁️ Sistema de Gestión para Óptica (Flutter)
+- 🚗 Automatización de Sistema de Estacionamiento
+- 📊 Proyectos de Análisis de Datos y Machine Learning
 
 #### Idiomas
 - 🇲🇽 Español (Nativo)
 - 🇺🇸 Inglés (B2 - Intermedio Alto)
+- 🇯🇵 Japonés (Principiante)
 
 #### Contacto
 - 📧 Email: mart.coding@gmail.com
