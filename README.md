@@ -79,7 +79,6 @@ Other Projects:
 
 ![](https://github-readme-stats.vercel.app/api?username=MaARTCODE&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaARTCODE&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaARTCODE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaARTCODE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -173,7 +172,6 @@ Otros Proyectos:
 
 ![](https://github-readme-stats.vercel.app/api?username=MaARTCODE&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaARTCODE&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaARTCODE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #### 🏆 Trofeos de GitHub
 ![](https://github-profile-trophy.vercel.app/?username=MaARTCODE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
