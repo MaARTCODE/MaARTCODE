@@ -6,7 +6,7 @@
 
 ### Hi there! 👋 
 
-🎯 Frontend Developer specialized in TypeScript/Angular & Dart/Flutter | Computer Science Student UAM-I
+🎯 Frontend Developer specialized in React, TypeScript/Angular & Dart/Flutter | Computer Science Graduate
 
 #### ⚡ Fun Fact
 Born on September 13, 1999 - a truly unique date that connects me to programming:
@@ -15,8 +15,9 @@ Born on September 13, 1999 - a truly unique date that connects me to programming
 - And yes, my name is Mario - all pure coincidence!
 
 #### About Me
-- 🎓 Computer Science student at UAM Iztapalapa (graduating soon!)
-- 💼 Frontend Developer & Scrum Master at UAM Research Project INFOCSH
+- 🎓 Computer Science Graduate from UAM Iztapalapa
+- 💼 Frontend Developer at Kapital Bank
+- 🔧 Specialized in React, Flutter, and enterprise-level refactoring
 - 🌱 Currently learning Japanese 日本語を勉強中
 - 🎮 Gaming & Anime enthusiast (Bleach fan and Gogeta enthusiast)
 - 🎧 Audiophile passionate about high-resolution audio (WAV, FLAC)
@@ -25,16 +26,17 @@ Born on September 13, 1999 - a truly unique date that connects me to programming
 
 Frontend Specialist:
 ```
-├── TypeScript & Angular Expert
+├── React & TypeScript Expert
+├── Angular Developer
 ├── Dart & Flutter Developer
-└── Visual Basic Applications
+└── Enterprise UI/UX Implementation
 ```
 
 Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -42,6 +44,7 @@ Programming Languages:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 Frameworks & Technologies:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -57,20 +60,32 @@ Data Science & ML:
 Tools & Platforms:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/asana-%23E44C30.svg?style=for-the-badge&logo=asana&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 🚀 Featured Projects
+#### 🚀 Professional Experience & Projects
 
-🏢 [INFOCSH Module](https://infocsh.izt.uam.mx/informatica-modulo/consulta)
-- Led frontend development as Scrum Master
-- Built with Angular, Laravel
-- Real-time room reservation system
-- Material Design UI implementation
+💼 **Frontend Developer Kapital Bank**
+- 📱 Mobile Application (Flutter): Integration of third-party SDKs for user verification and validation processes
+- 🌐 Web Platform (React): Component refactoring and architecture improvements:
+  - Unification of reusable modal components
+  - Responsive design implementation
+  - Component structure optimization
+  - UI/UX enhancements and visual consistency
+- 🎨 Animation integration to improve user experience
+- 📋 Agile methodology and Git Flow (hotfix, fix, release, feature)
+- 🔄 Code review participation and best practices
 
-Other Projects:
+Previous Projects:
+- 🏢 [INFOCSH Module](https://infocsh.izt.uam.mx/informatica-modulo/consulta)
+  - Frontend development as Scrum Master
+  -  Built with Angular, Laravel
+  -  Real-time room reservation system
+  -  Material Design UI implementation
 - 👁️ Optical Store Management System (Flutter)
 - 🚗 Parking System Automation
 - 📊 Data Analysis and ML Projects
@@ -82,6 +97,15 @@ Other Projects:
 
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaARTCODE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+#### 💼 Professional Skills
+- ✅ SDK Integration & Implementation
+- ✅ Code Refactoring & Optimization
+- ✅ Responsive Design & Mobile-First Development
+- ✅ Component Architecture & Reusability
+- ✅ Agile Methodologies (Scrum)
+- ✅ Git Flow & Version Control Best Practices
+- ✅ Team Collaboration
 
 #### 🌎 Languages
 - 🇲🇽 Spanish (Native)
@@ -99,7 +123,7 @@ Other Projects:
 
 ### ¡Hola! 👋
 
-🎯 Desarrollador Frontend especializado en TypeScript/Angular & Dart/Flutter | Estudiante de Computación UAM-I
+🎯 Desarrollador Frontend especializado en React, TypeScript/Angular & Dart/Flutter | Egresado de Computación
 
 #### ⚡ Dato Curioso
 Nací el 13 de septiembre de 1999 - una fecha verdaderamente única que me conecta con la programación:
@@ -108,8 +132,9 @@ Nací el 13 de septiembre de 1999 - una fecha verdaderamente única que me conec
 - Y sí, me llamo Mario - ¡todo pura casualidad!
 
 #### Sobre Mí
-- 🎓 Estudiante de Computación en UAM Iztapalapa (¡próximo a graduarme!)
-- 💼 Desarrollador Frontend y Scrum Master en Proyecto INFOCSH UAM
+- 🎓 Egresado de Computación de UAM Iztapalapa
+- 💼 Desarrollador Frontend en Kapital Bank
+- 🔧 Especializado en React, Flutter y refactorización a nivel empresarial
 - 🌱 Actualmente aprendiendo japonés 日本語を勉強中
 - 🎮 Entusiasta de videojuegos y anime (Fan de Bleach y admirador de Gogeta)
 - 🎧 Audiófilo apasionado por el audio de alta resolución (WAV, FLAC)
@@ -118,16 +143,17 @@ Nací el 13 de septiembre de 1999 - una fecha verdaderamente única que me conec
 
 Especialista Frontend:
 ```
-├── Experto en TypeScript & Angular
+├── Experto en React & TypeScript
+├── Desarrollador Angular
 ├── Desarrollador Dart & Flutter
-└── Visual Basic Applications
+└── Implementación de UI/UX Empresarial
 ```
 
 Lenguajes de Programación:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -135,6 +161,7 @@ Lenguajes de Programación:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 Frameworks y Tecnologías:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -150,20 +177,32 @@ Ciencia de Datos & ML:
 Herramientas y Plataformas:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/asana-%23E44C30.svg?style=for-the-badge&logo=asana&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 🚀 Proyectos Destacados
+#### 🚀 Experiencia Profesional & Proyectos
 
-🏢 [Módulo INFOCSH](https://infocsh.izt.uam.mx/informatica-modulo/consulta)
-- Lideré el desarrollo frontend como Scrum Master
-- Construido con Angular, Laravel
-- Sistema de reserva de salas en tiempo real
-- Implementación de UI con Material Design
+💼 **Desarrollador Frontend Kapital Bank**
+- 📱 Aplicación Móvil (Flutter): Integración de SDK de terceros para procesos de verificación y validación de usuarios
+- 🌐 Plataforma Web (React): Refactorización de componentes y mejoras de arquitectura:
+  - Unificación de componentes modales reutilizables
+  - Implementación de diseño responsive
+  - Optimización de estructura de componentes
+  - Mejoras de UI/UX y consistencia visual
+- 🎨 Integración de animaciones para mejorar experiencia de usuario
+- 📋 Trabajo con metodología Agile y Git Flow (hotfix, fix, release, feature)
+- 🔄 Participación en code reviews y mejores prácticas
 
-Otros Proyectos:
+Proyectos Anteriores:
+- 🏢 [Módulo INFOCSH](https://infocsh.izt.uam.mx/informatica-modulo/consulta)
+  - Desarrollo frontend como Scrum Master
+  - Construido con Angular, Laravel
+  - Sistema de reserva de salas en tiempo real
+  - Implementación de UI con Material Design
 - 👁️ Sistema de Gestión para Óptica (Flutter)
 - 🚗 Sistema de Automatización de Estacionamiento
 - 📊 Proyectos de Análisis de Datos y Machine Learning
@@ -175,6 +214,15 @@ Otros Proyectos:
 
 #### 🏆 Trofeos de GitHub
 ![](https://github-profile-trophy.vercel.app/?username=MaARTCODE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+#### 💼 Habilidades Profesionales
+- ✅ Integración e Implementación de SDKs
+- ✅ Refactorización y Optimización de Código
+- ✅ Diseño Responsive & Desarrollo Mobile-First
+- ✅ Arquitectura de Componentes & Reusabilidad
+- ✅ Metodologías Ágiles (Scrum)
+- ✅ Git Flow & Mejores Prácticas de Control de Versiones
+- ✅ Colaboración en Equipo
 
 #### 🌎 Idiomas
 - 🇲🇽 Español (Nativo)
