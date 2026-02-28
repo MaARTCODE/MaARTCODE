@@ -1,4 +1,4 @@
-# Mario Alberto Rojas Trejo (MaARTCODE) 👨‍💻
+# Mario Rojas (MaARTCODE) 👨‍💻
 
 [English](#english) | [Español](#español)
 
