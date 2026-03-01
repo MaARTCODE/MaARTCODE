@@ -8,12 +8,6 @@
 
 🎯 Frontend Developer specialized in React, TypeScript/Angular & Dart/Flutter | Computer Science Graduate
 
-#### ⚡ Fun Fact
-Born on September 13, 1999 - a truly unique date that connects me to programming:
-- 🎮 The release date of Super Mario Bros. in Japan
-- 👨‍💻 The Day of the Programmer (256th day of the year)
-- And yes, my name is Mario - all pure coincidence!
-
 #### About Me
 - 🎓 Computer Science Graduate from UAM Iztapalapa
 - 💼 Frontend Developer at Kapital Bank
@@ -114,8 +108,7 @@ Previous Projects:
 
 #### 📫 Contact
 - 📧 mart.coding@gmail.com
-- 📱 +52 55 6250 6026
-- 📍 Mexico City, CP 11300
+- 📍 Mexico City
 
 ---
 
@@ -124,12 +117,6 @@ Previous Projects:
 ### ¡Hola! 👋
 
 🎯 Desarrollador Frontend especializado en React, TypeScript/Angular & Dart/Flutter | Egresado de Computación
-
-#### ⚡ Dato Curioso
-Nací el 13 de septiembre de 1999 - una fecha verdaderamente única que me conecta con la programación:
-- 🎮 Es la fecha de lanzamiento de Super Mario Bros. en Japón
-- 👨‍💻 También es el Día del Programador (día 256 del año)
-- Y sí, me llamo Mario - ¡todo pura casualidad!
 
 #### Sobre Mí
 - 🎓 Egresado de Computación de UAM Iztapalapa
@@ -231,8 +218,7 @@ Proyectos Anteriores:
 
 #### 📫 Contacto
 - 📧 mart.coding@gmail.com
-- 📱 +52 55 6250 6026
-- 📍 Ciudad de México, CP 11300
+- 📍 Ciudad de México
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MaARTCODE&icon=0&color=0)](https://visitcount.itsvg.in)
